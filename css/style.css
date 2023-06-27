@@ -37,6 +37,13 @@
     animation: jump 500ms ease-out;
 }
 
+.titulo{
+    margin-left: 550px;
+    margin-top: 70px;
+    font-family: Arial;
+}
+
+
 @keyframes pipe-animation{
     from{
         right: 0;
